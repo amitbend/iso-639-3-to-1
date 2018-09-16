@@ -1,7 +1,7 @@
 # iso-639-3-to-1 [![Build Status][build-badge]][build-page]
 
 Converting between iso-639-3 to iso-639-1 language codes.
-For languages without iso-639-1 which have a "macro language" -> return the "macro language" iso-639-1 code (if exists)
+For languages without iso-639-1 which have a "macro language", It will return the "macro language" iso-639-1 code (if exists)
 
 ## Installation
 
