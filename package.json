@@ -1,0 +1,22 @@
+{
+  "name": "iso-639-3-to-1",
+  "version": "1.0.0",
+  "description": "Convert iso 639-3 to 639-1 language code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iso",
+    "639",
+    "6391",
+    "language",
+    "convert",
+    "code",
+    "lang",
+    "language",
+    "codes"
+  ],
+  "author": "amitbend",
+  "license": "ISC"
+}
